@@ -1,2 +1,2 @@
-# datavisualiweb
-website html
+# Datavisualiweb
+Website made using HTML
